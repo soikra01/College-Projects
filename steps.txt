@@ -1,0 +1,2 @@
+This is a test text documents for ensuring the success of the connection with
+my git repository.
